@@ -21,6 +21,9 @@ BST: a binary search tree
 <p align='justify'>
 heap: a heap(almost complete binary tree; key(parent)>key(child))
 </p>
+<p align='justify'>
+hash_table: a hash table, including linear probing and chaining as way of storing elements
+</p>
 
 
 
