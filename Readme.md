@@ -1,4 +1,4 @@
-This folder contains implementations of some algorithms and data structures
+This folder contains implementations of some algorithms and data structures in C/C++
 
 ##Algorithms
 <p align='justify'>	
@@ -6,6 +6,12 @@ sorting:  insertion sort; bubble sort; selection sort; counting sort; merge sort
 </p>
 <p align='justify'>
 online_connectivity: quick find and quick union
+</p>
+<p align='justify'>
+graph_dfs: depth first search
+</p>
+<p align='justify'>
+graph_bfs: breadth first search
 </p>
 
 ##Data Structures
@@ -25,8 +31,10 @@ heap: a heap(almost complete binary tree; key(parent)>key(child))
 hash_table: a hash table, including linear probing and chaining as way of storing elements
 </p>
 
-
-
+##Reference
+<p align='justify'>
+Algorithm and Programming Course Slides of Politecnico di Torino
+</p>
 
 
 
