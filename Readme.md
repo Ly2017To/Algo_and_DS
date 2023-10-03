@@ -13,6 +13,18 @@ graph_dfs: depth first search
 <p align='justify'>
 graph_bfs: breadth first search
 </p>
+<p align='justify'>
+Kruskal: Kruskal algorithm (minimum spanning tree)
+</p>
+<p align='justify'>
+Prim: Prim algorithm (minimum spanning tree)
+</p>
+<p align='justify'>
+Dijkstra: Dijkstra algorithm (single source shortest path)
+</p>
+<p align='justify'>
+Bellman_Ford: Bellman Ford algorithm (single source shortest path)
+</p>
 
 ##Data Structures
 <p align='justify'>
