@@ -1,6 +1,7 @@
 This folder contains implementations of some algorithms and data structures in C/C++
 
-##Algorithms
+###Algorithms
+
 <p align='justify'>	
 sorting:  insertion sort; bubble sort; selection sort; counting sort; merge sort; quick sort;
 </p>
@@ -26,7 +27,8 @@ Dijkstra: Dijkstra algorithm (single source shortest path)
 Bellman_Ford: Bellman Ford algorithm (single source shortest path)
 </p>
 
-##Data Structures
+###Data Structures
+
 <p align='justify'>
 linkedlist: a LIFO list
 </p>
@@ -43,7 +45,8 @@ heap: a heap(almost complete binary tree; key(parent)>key(child))
 hash_table: a hash table, including linear probing and chaining as way of storing elements
 </p>
 
-##Reference
+###Reference
+
 <p align='justify'>
 Algorithm and Programming Course Slides of Politecnico di Torino
 </p>
